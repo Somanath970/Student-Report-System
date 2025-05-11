@@ -9,7 +9,7 @@ A Python-based Student Report Card Management System to manage student records, 
 
 ## Tech Stack
 - Python 3
-- Data stored in memory (or file-based if implemented)
+- Data stored in memory
 
 ## How to Run
 ```bash
